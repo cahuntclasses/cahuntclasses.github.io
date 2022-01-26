@@ -893,8 +893,8 @@ section.upcoming-meetings {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 230px;
-  padding-bottom: 110px;
+  padding-top: 220px;
+  padding-bottom: 30px;
 }
 
 section.upcoming-meetings .section-heading {
@@ -1028,7 +1028,7 @@ section.apply-now {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 140px 0px;
+  padding: 50px 0px;
 }
 
 section.apply-now .item {
@@ -1127,8 +1127,8 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
-  padding-bottom: 130px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
 .our-courses .item .down-content {
@@ -1345,7 +1345,7 @@ section.contact-us {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 140px 0px 0px 0px;
+  padding: 30px 0px 0px 0px;
 }
 
 section.contact-us .item {
@@ -1530,7 +1530,7 @@ section.meetings-page {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 140px;
+  padding-top: 60px;
   padding-bottom: 0px;
 }
 

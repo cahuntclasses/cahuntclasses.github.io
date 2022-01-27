@@ -894,7 +894,7 @@ section.upcoming-meetings {
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 220px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 section.upcoming-meetings .section-heading {
@@ -1127,7 +1127,7 @@ section.our-courses {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 50px;
+  padding-top: 10px;
   padding-bottom: 20px;
 }
 

@@ -1136,7 +1136,7 @@ section.our-courses {
 }
 
 .our-courses .item .down-content h4 {
-  padding: 25px;
+  padding: 5px;
   font-size: 18px;
   color: #1f272b;
   text-align: center; 
@@ -1144,7 +1144,7 @@ section.our-courses {
 }
 
 .our-courses .item .down-content .info {
-  padding: 25px;
+  padding: 10px;
 }
 
 .our-courses .item .down-content .info ul li {
